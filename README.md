@@ -1,7 +1,7 @@
 **Project Name:** React ToDo List
 
 **Description:** 
-React ToDo List is a web application built using React.js, showcasing my proficiency in working with React. It allows users to add, remove, and manage tasks effortlessly. Each task can include a name, date, and reminder, providing a comprehensive solution for organizing daily activities.
+React ToDo List is a web application built using React.js, showcasing my proficiency in working with React. It allows users to add, remove, and manage tasks effortlessly. Each task can include a name, date, and reminder, providing a comprehensive solution for organizing daily activities. The tasks are stored in a JSON file named db.json, ensuring that they remain intact even when the page is refreshed.
 
 **Badges:** 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +13,7 @@ React ToDo List is a web application built using React.js, showcasing my profici
 **Installation:** 
 1. Clone the repository:
    ```
-   git clone https://github.com/username/React-ToDo-List.git
+   git clone https://github.com/username/React-ToDo-List.git --branch Backend-addition
    ```
 2. Navigate to the project directory:
    ```
