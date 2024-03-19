@@ -25,17 +25,13 @@ React ToDo List is a web application built using React.js, showcasing my profici
    ```
 
 **Usage:** 
-1. Start the development server and host the database:
-   ```
-   npm run server
-   ```
-2. Open another terminal and start the React application:
+1. Open another terminal and start the React application:
    ```
    npm start
    ```
-3. Open the web browser and navigate to `http://localhost:3000` to access the application.
-4. Add tasks by entering the task name, date, and reminder, then click the "Add Task" button.
-5. To remove a task, click the "X" button next to the task.
+2. Open the web browser and navigate to `http://localhost:3000` to access the application.
+3. Add tasks by entering the task name, date, and reminder, then click the "Add Task" button.
+4. To remove a task, click the "X" button next to the task.
 
 **Support:** 
 For any issues or questions, please open an issue on GitHub or reach out via email at oundel.store@gmail.com.
